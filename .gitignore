@@ -1,0 +1,4 @@
+*.o
+*.swp
+http_load
+
